@@ -9111,5 +9111,10 @@ blockquote cite {
     border-bottom: 1px solid #eee;
 }
 
+.pitch-btn i {
+    font-size: 20px !important;
+    margin-right: 5px;
+}
+
 
 /*# sourceMappingURL=style.css.map */
